@@ -11,16 +11,25 @@ Groot is a project designed to [briefly describe the purpose or functionality of
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/groot.git
-cd groot
+git clone https://github.com/AADIL20052911/Groot--My-Personal-VCS.git
+cd Groot--My-Personal-VCS
 # Follow additional setup instructions here
 ```
 
 ## Usage
 
 ```bash
-# Example usage
-python groot.py --help
+# Initialize Groot in your project folder
+python groot.py init
+
+# Add files to staging
+python groot.py add <filename>
+
+# Commit changes
+python groot.py commit -m "Your commit message"
+
+# View history
+python groot.py log
 ```
 
 ## Contributing
