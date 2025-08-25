@@ -1,6 +1,6 @@
 # Groot
 
-Groot is a project designed to [briefly describe the purpose or functionality of your project, e.g., "manage and organize large datasets efficiently"].
+Groot is a lightweight version control system inspired by Git, built to efficiently track, manage, and organize file changes.
 
 ## Features
 
